@@ -64,3 +64,4 @@ Android 需要修改的 IP：
 - 后端：Python + FastAPI + SQLite + WebSocket
 - 前端：Android (Kotlin) + Retrofit + OkHttp
 
+# Trigger build Sat Mar 14 01:00:42 UTC 2026
